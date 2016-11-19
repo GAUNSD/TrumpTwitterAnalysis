@@ -17,4 +17,5 @@ http://www.trumptwitterarchive.com/#/archive
 -
 Authors: 
 Gustavo Andres Murcia
+
 Aruna Dutt
