@@ -1,4 +1,4 @@
-# TrumpTwitterAnalysis
+# Trump Twitter Analysis with New York Times Scraping
 
 This repo houses raw data that will be used for an anylsis of Trump's Twitter page and New York Times articles about him.
 
