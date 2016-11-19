@@ -15,4 +15,6 @@ The Twitter data was collected from the following website
 http://www.trumptwitterarchive.com/#/archive
 
 -
-Gustavo Murcia
+Authors: 
+Gustavo Andres Murcia
+Aruna Dutt
